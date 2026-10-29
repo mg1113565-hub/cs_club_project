@@ -1,0 +1,58 @@
+{
+  "courses": [
+    {
+      "id": "CS14",
+      "name": "Introduction to Programming",
+      "units": 4,
+      "prerequisites": []
+    },
+    {
+      "id": "CS15",
+      "name": "Object-Oriented Programming",
+      "units": 4,
+      "prerequisites": [
+        "CS14"
+      ]
+    },
+    {
+      "id": "CS20",
+      "name": "Data Structures and Algorithms",
+      "units": 4,
+      "prerequisites": [
+        "CS15"
+      ]
+    },
+    {
+      "id": "MATH1",
+      "name": "Calculus I",
+      "units": 5,
+      "prerequisites": []
+    },
+    {
+      "id": "MATH2",
+      "name": "Calculus II",
+      "units": 5,
+      "prerequisites": [
+        "MATH1"
+      ]
+    },
+    {
+      "id": "ENGL C1000",
+      "name": "English Composition",
+      "units": 4,
+      "prerequisites": []
+    }
+  ],
+  "student": {
+    "completed_courses": [
+      "CS14",
+      "MATH1"
+    ],
+    "planned_courses": [
+      "CS20",
+      "MATH2",
+      "ENGL C1000"
+    ],
+    "max_units": 18
+  }
+}

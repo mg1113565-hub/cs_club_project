@@ -1,0 +1,33 @@
+{
+  "_note": "MADE UP for testing. Real AP rules must come from the official AP charts.",
+  "rules": [
+    {
+      "exam": "Calculus AB",
+      "min_score": 3,
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "exam": "Calculus BC",
+      "min_score": 3,
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "exam": "Psychology",
+      "min_score": 3,
+      "ge_areas": [
+        "4"
+      ]
+    },
+    {
+      "exam": "English Language",
+      "min_score": 3,
+      "ge_areas": [
+        "1A"
+      ]
+    }
+  ]
+}

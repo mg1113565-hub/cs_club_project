@@ -1,0 +1,65 @@
+{
+  "_note": "Full Cal-GETC, simplified for v1: ignores the lab requirement (5C) and the 'two different subjects' rule in Area 4. Have a counselor confirm before using with real data.",
+  "rules": [
+    {
+      "areas": [
+        "1A"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "1B"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "1C"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "2"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "3A"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "3B"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "4"
+      ],
+      "courses": 2
+    },
+    {
+      "areas": [
+        "5A"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "5B"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "6"
+      ],
+      "courses": 1
+    }
+  ]
+}

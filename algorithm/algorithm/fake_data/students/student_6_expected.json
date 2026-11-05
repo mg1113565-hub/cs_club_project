@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": "chabot:CS 40",
+      "units": 3,
+      "reason": [
+        "SJSU: MATH 42"
+      ]
+    },
+    {
+      "id": "chabot:MATH 2",
+      "units": 5,
+      "reason": [
+        "SJSU: MATH 30 + MATH 31",
+        "UCB: MATH 1A + MATH 1B"
+      ]
+    },
+    {
+      "id": "chabot:MATH 3",
+      "units": 5,
+      "reason": [
+        "SJSU: MATH 32",
+        "UCB: MATH 53"
+      ]
+    },
+    {
+      "id": "chabot:MATH 6",
+      "units": 3,
+      "reason": [
+        "SJSU: MATH 39",
+        "UCB: MATH 54"
+      ]
+    }
+  ],
+  "total_units": 16,
+  "warnings": [
+    "SJSU: MATH 108: no class at your college counts, take it after transferring",
+    "UCB: MATH 55: no class at your college counts, take it after transferring"
+  ]
+}

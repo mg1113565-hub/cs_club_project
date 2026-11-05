@@ -1,0 +1,33 @@
+{
+  "_note": "UC minimum: Cal-GETC 1A, 1B, 2, plus 4 courses from Areas 3A, 3B, 4, 5A, 5B (the 'at least 2 different areas' rule is left out for v1). Have a counselor confirm before using with real data.",
+  "rules": [
+    {
+      "areas": [
+        "1A"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "1B"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "2"
+      ],
+      "courses": 1
+    },
+    {
+      "areas": [
+        "3A",
+        "3B",
+        "4",
+        "5A",
+        "5B"
+      ],
+      "courses": 4
+    }
+  ]
+}

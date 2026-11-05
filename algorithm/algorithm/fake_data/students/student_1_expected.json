@@ -1,0 +1,57 @@
+{
+  "courses": [
+    {
+      "id": "chabot:CS 10",
+      "units": 4,
+      "reason": [
+        "SJSU: CS 46A"
+      ]
+    },
+    {
+      "id": "chabot:CS 20",
+      "units": 4,
+      "reason": [
+        "SJSU: CS 46B"
+      ]
+    },
+    {
+      "id": "chabot:CS 30",
+      "units": 4,
+      "reason": [
+        "SJSU: CS 47"
+      ]
+    },
+    {
+      "id": "chabot:CS 40",
+      "units": 3,
+      "reason": [
+        "SJSU: MATH 42"
+      ]
+    },
+    {
+      "id": "chabot:MATH 1",
+      "units": 5,
+      "reason": [
+        "SJSU: MATH 30 + MATH 31"
+      ]
+    },
+    {
+      "id": "chabot:MATH 2",
+      "units": 5,
+      "reason": [
+        "SJSU: MATH 30 + MATH 31"
+      ]
+    },
+    {
+      "id": "chabot:MATH 5",
+      "units": 4,
+      "reason": [
+        "Prereq for chabot:MATH 1"
+      ]
+    }
+  ],
+  "total_units": 29,
+  "warnings": [
+    "SJSU: CS 49J: no class at your college counts, take it after transferring"
+  ]
+}

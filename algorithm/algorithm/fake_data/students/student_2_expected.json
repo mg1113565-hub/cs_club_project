@@ -1,0 +1,61 @@
+{
+  "courses": [
+    {
+      "id": "chabot:COMM C1000",
+      "units": 3,
+      "reason": [
+        "GE Area 1C (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:CS 20",
+      "units": 4,
+      "reason": [
+        "SJSU: CS 46B",
+        "UCB: CS 61B"
+      ]
+    },
+    {
+      "id": "chabot:CS 30",
+      "units": 4,
+      "reason": [
+        "SJSU: CS 47",
+        "UCB: CS 61C"
+      ]
+    },
+    {
+      "id": "chabot:CS 40",
+      "units": 3,
+      "reason": [
+        "SJSU: MATH 42"
+      ]
+    },
+    {
+      "id": "chabot:ENGL C1001",
+      "units": 3,
+      "reason": [
+        "GE Area 1B (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:MATH 2",
+      "units": 5,
+      "reason": [
+        "SJSU: MATH 30 + MATH 31",
+        "UCB: MATH 1A + MATH 1B"
+      ]
+    },
+    {
+      "id": "chabot:MATH 6",
+      "units": 3,
+      "reason": [
+        "UCB: MATH 54"
+      ]
+    }
+  ],
+  "total_units": 25,
+  "warnings": [
+    "SJSU: CS 49J: no class at your college counts, take it after transferring",
+    "UCB: CS 70: no class at your college counts, take it after transferring"
+  ]
+}

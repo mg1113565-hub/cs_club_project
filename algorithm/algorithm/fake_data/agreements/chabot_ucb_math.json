@@ -1,0 +1,41 @@
+{
+  "_note": "MADE-UP data for testing only. Not real course or articulation data.",
+  "college": "chabot",
+  "university": "ucb",
+  "program": "math",
+  "year": "2026-27",
+  "requirements": [
+    {
+      "name": "MATH 1A + MATH 1B",
+      "options": [
+        [
+          "chabot:MATH 1",
+          "chabot:MATH 2"
+        ],
+        [
+          "chabot:MATH 12"
+        ]
+      ]
+    },
+    {
+      "name": "MATH 53",
+      "options": [
+        [
+          "chabot:MATH 3"
+        ]
+      ]
+    },
+    {
+      "name": "MATH 54",
+      "options": [
+        [
+          "chabot:MATH 6"
+        ]
+      ]
+    },
+    {
+      "name": "MATH 55",
+      "options": []
+    }
+  ]
+}

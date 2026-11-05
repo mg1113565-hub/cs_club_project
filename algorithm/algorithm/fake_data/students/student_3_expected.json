@@ -1,0 +1,78 @@
+{
+  "courses": [
+    {
+      "id": "chabot:ART 1",
+      "units": 3,
+      "reason": [
+        "GE Area 3A (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:ASTR 10",
+      "units": 3,
+      "reason": [
+        "GE Area 5A (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:CS 20",
+      "units": 4,
+      "reason": [
+        "SJSU: CS 46B"
+      ]
+    },
+    {
+      "id": "chabot:CS 30",
+      "units": 4,
+      "reason": [
+        "SJSU: CS 47"
+      ]
+    },
+    {
+      "id": "chabot:CS 40",
+      "units": 3,
+      "reason": [
+        "SJSU: MATH 42"
+      ]
+    },
+    {
+      "id": "chabot:HIST 7",
+      "units": 3,
+      "reason": [
+        "GE Area 4 (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:HUM 1",
+      "units": 3,
+      "reason": [
+        "GE Area 3B (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:MATH 1",
+      "units": 5,
+      "reason": [
+        "SJSU: MATH 30 + MATH 31"
+      ]
+    },
+    {
+      "id": "chabot:MATH 2",
+      "units": 5,
+      "reason": [
+        "SJSU: MATH 30 + MATH 31"
+      ]
+    },
+    {
+      "id": "chabot:MATH 5",
+      "units": 4,
+      "reason": [
+        "Prereq for chabot:MATH 1"
+      ]
+    }
+  ],
+  "total_units": 37,
+  "warnings": [
+    "SJSU: CS 49J: no class at your college counts, take it after transferring"
+  ]
+}

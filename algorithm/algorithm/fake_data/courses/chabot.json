@@ -1,0 +1,253 @@
+{
+  "_note": "MADE-UP data for testing only. Not real course or articulation data.",
+  "courses": [
+    {
+      "id": "chabot:CS 10",
+      "title": "Intro to Programming",
+      "units": 4,
+      "prereqs": [],
+      "ge_areas": []
+    },
+    {
+      "id": "chabot:CS 20",
+      "title": "Data Structures",
+      "units": 4,
+      "prereqs": [
+        [
+          "chabot:CS 10",
+          "lpc:CS 1"
+        ]
+      ],
+      "ge_areas": []
+    },
+    {
+      "id": "chabot:CS 30",
+      "title": "Computer Organization",
+      "units": 4,
+      "prereqs": [
+        [
+          "chabot:CS 20",
+          "lpc:CS 2"
+        ],
+        [
+          "chabot:MATH 1",
+          "chabot:MATH 12"
+        ]
+      ],
+      "ge_areas": []
+    },
+    {
+      "id": "chabot:CS 40",
+      "title": "Discrete Math",
+      "units": 3,
+      "prereqs": [
+        [
+          "chabot:MATH 1",
+          "chabot:MATH 12"
+        ]
+      ],
+      "ge_areas": []
+    },
+    {
+      "id": "chabot:MATH 5",
+      "title": "Precalculus",
+      "units": 4,
+      "prereqs": [],
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "id": "chabot:MATH 1",
+      "title": "Calculus I",
+      "units": 5,
+      "prereqs": [
+        [
+          "chabot:MATH 5"
+        ]
+      ],
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "id": "chabot:MATH 2",
+      "title": "Calculus II",
+      "units": 5,
+      "prereqs": [
+        [
+          "chabot:MATH 1"
+        ]
+      ],
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "id": "chabot:MATH 12",
+      "title": "Intensive Calculus I and II",
+      "units": 10,
+      "prereqs": [
+        [
+          "chabot:MATH 5"
+        ]
+      ],
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "id": "chabot:MATH 3",
+      "title": "Multivariable Calculus",
+      "units": 5,
+      "prereqs": [
+        [
+          "chabot:MATH 2"
+        ]
+      ],
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "id": "chabot:MATH 6",
+      "title": "Linear Algebra",
+      "units": 3,
+      "prereqs": [
+        [
+          "chabot:MATH 2"
+        ]
+      ],
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "id": "chabot:PHYS 1",
+      "title": "Physics I",
+      "units": 5,
+      "prereqs": [
+        [
+          "chabot:MATH 1",
+          "chabot:MATH 12"
+        ]
+      ],
+      "ge_areas": [
+        "5A"
+      ]
+    },
+    {
+      "id": "chabot:ASTR 10",
+      "title": "Astronomy",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "5A"
+      ]
+    },
+    {
+      "id": "chabot:BIOL 10",
+      "title": "Intro Biology",
+      "units": 4,
+      "prereqs": [],
+      "ge_areas": [
+        "5B"
+      ]
+    },
+    {
+      "id": "chabot:ENGL C1000",
+      "title": "Academic Reading and Writing",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "1A"
+      ]
+    },
+    {
+      "id": "chabot:ENGL C1001",
+      "title": "Critical Thinking and Writing",
+      "units": 3,
+      "prereqs": [
+        [
+          "chabot:ENGL C1000"
+        ]
+      ],
+      "ge_areas": [
+        "1B"
+      ]
+    },
+    {
+      "id": "chabot:COMM C1000",
+      "title": "Public Speaking",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "1C"
+      ]
+    },
+    {
+      "id": "chabot:PHIL 10",
+      "title": "Logic",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "1B",
+        "3B"
+      ]
+    },
+    {
+      "id": "chabot:ART 1",
+      "title": "Art History",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "3A"
+      ]
+    },
+    {
+      "id": "chabot:MUS 10",
+      "title": "Music Appreciation",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "3A"
+      ]
+    },
+    {
+      "id": "chabot:HUM 1",
+      "title": "Intro to Humanities",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "3B"
+      ]
+    },
+    {
+      "id": "chabot:HIST 7",
+      "title": "US History",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "4"
+      ]
+    },
+    {
+      "id": "chabot:PSYC 1",
+      "title": "Intro Psychology",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "4"
+      ]
+    },
+    {
+      "id": "chabot:ETHS 1",
+      "title": "Intro to Ethnic Studies",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "colleges": [
+    "chabot",
+    "lpc"
+  ],
+  "programs": {
+    "sjsu": "cs"
+  },
+  "last_term": "spring-2028",
+  "completed": [
+    "lpc:CS 1",
+    "chabot:ENGL C1000",
+    "chabot:PHIL 10"
+  ],
+  "ap": [
+    {
+      "exam": "Calculus AB",
+      "score": 4
+    },
+    {
+      "exam": "Psychology",
+      "score": 2
+    }
+  ],
+  "ge_plan": "seven_course"
+}

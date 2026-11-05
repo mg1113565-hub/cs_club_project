@@ -1,0 +1,16 @@
+{
+  "colleges": [
+    "chabot"
+  ],
+  "programs": {
+    "sjsu": "math",
+    "ucb": "math"
+  },
+  "last_term": "spring-2028",
+  "completed": [
+    "chabot:MATH 5",
+    "chabot:MATH 1"
+  ],
+  "ap": [],
+  "ge_plan": null
+}

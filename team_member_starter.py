@@ -8,21 +8,42 @@ def find_course(courses, course_id):
 
 
 
+
+
 def calculate_total_units(courses, planned_courses):
     """Return the sum of planned course units; an empty plan returns 0."""
     # TODO: Use find_course for each planned ID and add its "units".
-
+    total = 0
+    for course_id in planned_courses:
+        course = find_course(courses, course_id)
+        total += course["units"]
+    return total
 
 
 def check_unit_limit(courses, planned_courses, max_units):
     """Return True when the total units are at or below max_units."""
     # TODO: Reuse calculate_total_units and compare with max_units.
+    total_units = calculate_total_units(courses, planned_courses)
+    return total_units <= max_units
+
 
 
 
 def check_prerequisites(courses, completed_courses, course_id):
     """Return True if all prerequisites are completed; none means True."""
     # TODO: Find the course, then check each ID in its "prerequisites".
+
+    # find course
+    course = find_course(courses, course_id)
+
+    # check if each ID is in its prequisites is in completed courses
+    
+
+
+
+
+
+
 
 
 

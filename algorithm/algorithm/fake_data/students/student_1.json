@@ -1,0 +1,12 @@
+{
+  "colleges": [
+    "chabot"
+  ],
+  "programs": {
+    "sjsu": "cs"
+  },
+  "last_term": "spring-2028",
+  "completed": [],
+  "ap": [],
+  "ge_plan": null
+}

@@ -1,0 +1,49 @@
+{
+  "_note": "MADE-UP data for testing only. Not real course or articulation data.",
+  "college": "chabot",
+  "university": "sjsu",
+  "program": "math",
+  "year": "2026-27",
+  "requirements": [
+    {
+      "name": "MATH 30 + MATH 31",
+      "options": [
+        [
+          "chabot:MATH 1",
+          "chabot:MATH 2"
+        ],
+        [
+          "chabot:MATH 12"
+        ]
+      ]
+    },
+    {
+      "name": "MATH 32",
+      "options": [
+        [
+          "chabot:MATH 3"
+        ]
+      ]
+    },
+    {
+      "name": "MATH 39",
+      "options": [
+        [
+          "chabot:MATH 6"
+        ]
+      ]
+    },
+    {
+      "name": "MATH 42",
+      "options": [
+        [
+          "chabot:CS 40"
+        ]
+      ]
+    },
+    {
+      "name": "MATH 108",
+      "options": []
+    }
+  ]
+}

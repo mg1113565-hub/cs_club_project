@@ -1,0 +1,127 @@
+{
+  "courses": [
+    {
+      "id": "chabot:ART 1",
+      "units": 3,
+      "reason": [
+        "GE Area 3A (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:ASTR 10",
+      "units": 3,
+      "reason": [
+        "GE Area 5A (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:BIOL 10",
+      "units": 4,
+      "reason": [
+        "GE Area 5B (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:COMM C1000",
+      "units": 3,
+      "reason": [
+        "GE Area 1C (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:CS 10",
+      "units": 4,
+      "reason": [
+        "UCB: CS 61A"
+      ]
+    },
+    {
+      "id": "chabot:CS 20",
+      "units": 4,
+      "reason": [
+        "UCB: CS 61B"
+      ]
+    },
+    {
+      "id": "chabot:CS 30",
+      "units": 4,
+      "reason": [
+        "UCB: CS 61C"
+      ]
+    },
+    {
+      "id": "chabot:ENGL C1000",
+      "units": 3,
+      "reason": [
+        "GE Area 1A (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:ENGL C1001",
+      "units": 3,
+      "reason": [
+        "GE Area 1B (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:ETHS 1",
+      "units": 3,
+      "reason": [
+        "GE Area 6 (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:HIST 7",
+      "units": 3,
+      "reason": [
+        "GE Area 4 (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:HUM 1",
+      "units": 3,
+      "reason": [
+        "GE Area 3B (can swap)"
+      ]
+    },
+    {
+      "id": "chabot:MATH 1",
+      "units": 5,
+      "reason": [
+        "UCB: MATH 1A + MATH 1B"
+      ]
+    },
+    {
+      "id": "chabot:MATH 2",
+      "units": 5,
+      "reason": [
+        "UCB: MATH 1A + MATH 1B"
+      ]
+    },
+    {
+      "id": "chabot:MATH 5",
+      "units": 4,
+      "reason": [
+        "Prereq for chabot:MATH 1"
+      ]
+    },
+    {
+      "id": "chabot:MATH 6",
+      "units": 3,
+      "reason": [
+        "UCB: MATH 54"
+      ]
+    },
+    {
+      "id": "chabot:PSYC 1",
+      "units": 3,
+      "reason": [
+        "GE Area 4 (can swap)"
+      ]
+    }
+  ],
+  "total_units": 60,
+  "warnings": [
+    "UCB: CS 70: no class at your college counts, take it after transferring"
+  ]
+}

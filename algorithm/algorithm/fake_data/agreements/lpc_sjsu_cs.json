@@ -1,0 +1,41 @@
+{
+  "_note": "MADE-UP data for testing only. Not real course or articulation data.",
+  "college": "lpc",
+  "university": "sjsu",
+  "program": "cs",
+  "year": "2026-27",
+  "requirements": [
+    {
+      "name": "CS 46A",
+      "options": [
+        [
+          "lpc:CS 1"
+        ]
+      ]
+    },
+    {
+      "name": "CS 46B",
+      "options": [
+        [
+          "lpc:CS 2"
+        ]
+      ]
+    },
+    {
+      "name": "CS 47",
+      "options": []
+    },
+    {
+      "name": "MATH 30 + MATH 31",
+      "options": []
+    },
+    {
+      "name": "MATH 42",
+      "options": []
+    },
+    {
+      "name": "CS 49J",
+      "options": []
+    }
+  ]
+}

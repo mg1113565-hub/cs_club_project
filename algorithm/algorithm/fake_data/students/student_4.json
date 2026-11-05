@@ -1,0 +1,12 @@
+{
+  "colleges": [
+    "lpc"
+  ],
+  "programs": {
+    "ucb": "math"
+  },
+  "last_term": "spring-2028",
+  "completed": [],
+  "ap": [],
+  "ge_plan": null
+}

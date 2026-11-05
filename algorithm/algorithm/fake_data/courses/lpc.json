@@ -1,0 +1,50 @@
+{
+  "_note": "MADE-UP data for testing only. Not real course or articulation data.",
+  "courses": [
+    {
+      "id": "lpc:CS 1",
+      "title": "Intro to Programming",
+      "units": 4,
+      "prereqs": [],
+      "ge_areas": []
+    },
+    {
+      "id": "lpc:CS 2",
+      "title": "Data Structures",
+      "units": 4,
+      "prereqs": [
+        [
+          "lpc:CS 1"
+        ]
+      ],
+      "ge_areas": []
+    },
+    {
+      "id": "lpc:MATH 1",
+      "title": "Calculus I",
+      "units": 5,
+      "prereqs": [],
+      "ge_areas": [
+        "2"
+      ]
+    },
+    {
+      "id": "lpc:ENGL C1000",
+      "title": "Academic Reading and Writing",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "1A"
+      ]
+    },
+    {
+      "id": "lpc:ANTH 1",
+      "title": "Cultural Anthropology",
+      "units": 3,
+      "prereqs": [],
+      "ge_areas": [
+        "4"
+      ]
+    }
+  ]
+}

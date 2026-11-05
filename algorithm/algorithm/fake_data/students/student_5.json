@@ -1,0 +1,17 @@
+{
+  "colleges": [
+    "chabot"
+  ],
+  "programs": {
+    "ucb": "cs"
+  },
+  "last_term": "spring-2028",
+  "completed": [],
+  "ap": [
+    {
+      "exam": "Calculus BC",
+      "score": 5
+    }
+  ],
+  "ge_plan": "cal_getc"
+}

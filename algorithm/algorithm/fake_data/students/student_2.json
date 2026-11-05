@@ -1,0 +1,27 @@
+{
+  "colleges": [
+    "chabot"
+  ],
+  "programs": {
+    "sjsu": "cs",
+    "ucb": "cs"
+  },
+  "last_term": "spring-2028",
+  "completed": [
+    "chabot:CS 10",
+    "chabot:MATH 5",
+    "chabot:MATH 1",
+    "chabot:ENGL C1000"
+  ],
+  "ap": [
+    {
+      "exam": "Psychology",
+      "score": 4
+    },
+    {
+      "exam": "Physics 1",
+      "score": 4
+    }
+  ],
+  "ge_plan": "golden4"
+}

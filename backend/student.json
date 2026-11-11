@@ -1,0 +1,59 @@
+{
+	"transfer_targets": [
+		{
+			"university": "University of California, Berkeley",
+			"major": "Computer Science"
+		},
+		{
+			"university": "San Jose State University",
+			"major": "Mathematics"
+		}
+	],
+	"community_college_courses": [
+		{
+			"college": "Chabot College",
+			"courses": [
+				{
+					"id": "CS14",
+					"status": "Completed"
+				},
+				{
+					"id": "MATH1",
+					"status": "Completed"
+				}
+			]
+		},
+		{
+			"college": "Las Positas",
+			"courses": [
+				{
+					"id": "CS20",
+					"status": "planned"
+				},
+				{
+					"id": "MATH2",
+					"status": "planned"
+				}
+			]
+		}
+	],
+	"ap_scores": [
+		{
+			"subject": "AP Calculus AB",
+			"score": 5
+		},
+		{
+			"subject": "AP Calculus BC",
+			"score": 5
+		},
+		{
+			"subject": "AP Physics",
+			"score": 5
+		}
+	],
+	"transfer_term": 
+		{
+			"term": "Fall",
+			"year": 2028
+		}
+}

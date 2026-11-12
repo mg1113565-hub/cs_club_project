@@ -16,13 +16,17 @@ def check_prerequisites(courses, completed_courses, course_id):
     return True
 
 def returnAllPrerequisites(courses, course_id):
-
+    course = find_course(courses, course_id)
+    allPrerequisites = []
+    for prerequisites in course[prerequisites]:
+        allPrerequisites.append(prerequisites)
+    return allPrerequisites
 
 def prerequisites_completes():
 
 def prerequisites_needed():
 
-    
+
 
 
 def get_major_data(student, data):

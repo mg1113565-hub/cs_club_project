@@ -13,8 +13,18 @@ def check_prerequisites(courses, completed_courses, course_id):
     for prerequisite in course["prerequisites"]:
         if prerequisite not in completed_courses:
             return False
-
     return True
+
+def returnAllPrerequisites(courses, course_id):
+
+
+def prerequisites_completes():
+
+def prerequisites_needed():
+
+    
+
+
 def get_major_data(student, data):
     """Return (requirements, courses, warnings) for the program the student picked at each school."""
     # TODO: student["programs"] = {"sjsu": "cs", "ucb": "math"}. For each school/program and each college,

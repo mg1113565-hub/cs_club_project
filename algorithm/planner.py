@@ -25,6 +25,13 @@ def get_major_data(student, data):
 def requirement_done(options, completed):
     """Return True if every course in at least one option is completed."""
     # TODO: Loop through options; an option is done when all of its courses are in completed.
+    bool option_completed = False
+    for option in options:
+        if np.array_equal(option, completed):
+            option_completed = True
+            break
+
+    return option_completed
 
 
 def pick_option(options, completed, needed, courses):

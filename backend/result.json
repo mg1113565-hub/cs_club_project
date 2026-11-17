@@ -1,0 +1,54 @@
+[
+     {
+          "Chabot": [
+               {
+                    "title": "Introduction to Programming C++",
+                    "subject": "CSCI",
+                    "number": "14",
+                    "units": 3,
+                    "preReq": [
+                         "MTH55"
+                    ],
+                    "genEd": [],
+                    "forSchools": [
+                         "SJSU"
+                    ]
+               },
+               {
+                    "title": "Calcus II",
+                    "subject": "MTH",
+                    "number": "2",
+                    "units": 5,
+                    "preReq": [
+                         "MTH1"
+                    ],
+                    "genEd": [
+                         "Area 2",
+                         "Area 4"
+                    ],
+                    "forSchools": [
+                         "SJSU"
+                    ]
+               }
+          ]
+     },
+     {
+          "LasPositas": [
+               {
+                    "title": "General Physics I",
+                    "subject": "PHYS",
+                    "number": "1A",
+                    "units": 5,
+                    "preReq": [
+                         "MTH2"
+                    ],
+                    "genEd": [
+                         "Area 5A"
+                    ],
+                    "forSchools": [
+                         "SJSU"
+                    ]
+               }
+          ]
+     }
+]
